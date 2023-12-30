@@ -14,7 +14,7 @@ This is a simple to-do app built with React.js. It allows users to add, delete, 
 
 ## Demo
 
-Include a link to a live demo of your to-do app (if applicable).
+http://localhost:3000/
 
 ## Features
 
