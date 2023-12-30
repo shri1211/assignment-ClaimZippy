@@ -4,7 +4,7 @@ This is a simple to-do app built with React.js. It allows users to add, delete, 
 
 ## Table of Contents
 
-- [Demo](#http://localhost:3000/)
+- [Demo](#demo)
 - [Features](#features)
 - [Installation](#installation)
 - [Usage](#usage)
