@@ -11,7 +11,7 @@ This is a simple to-do app built with React.js. It allows users to create, delet
 - [Technologies Used](#technologies-used)
 - [Contributing](#contributing)
 - [License](#license)
-- [Built With](#build with)
+- [Built With](#build-with)
 - 
 
 ## Demo
