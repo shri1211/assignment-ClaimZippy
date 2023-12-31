@@ -28,4 +28,14 @@ https://assignment-6048b.web.app/
 1. Clone the repository:
 
    ```bash
-   https://github.com/shri1211/assignment-ClaimZippy.git   
+   https://github.com/shri1211/assignment-ClaimZippy.git
+ 
+2. Navigate to the project directory:
+      cd your-project
+   
+4. Install dependencies:
+      npm install
+
+4. Running the Application
+      npm start
+
