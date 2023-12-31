@@ -31,7 +31,7 @@ https://assignment-6048b.web.app/
    https://github.com/shri1211/assignment-ClaimZippy.git
  
 2. Navigate to the project directory:
-      cd your-project
+      cd tasks-app
    
 4. Install dependencies:
       npm install
