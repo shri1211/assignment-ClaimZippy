@@ -1,6 +1,6 @@
 # React To-Do App
 
-This is a simple to-do app built with React.js. It allows users to add, delete, and mark tasks as completed.
+This is a simple to-do app built with React.js. It allows users to create, delete, update and mark tasks as completed.
 
 ## Table of Contents
 
@@ -11,6 +11,8 @@ This is a simple to-do app built with React.js. It allows users to add, delete, 
 - [Technologies Used](#technologies-used)
 - [Contributing](#contributing)
 - [License](#license)
+- [Built With](#build with)
+- 
 
 ## Demo
 
@@ -38,4 +40,11 @@ https://assignment-6048b.web.app/
 
 4. Running the Application
       npm start
+   
+## Built With
+React - The JavaScript library for building user interfaces.
+This project utilizes Redux for state management. Redux is a predictable state container for JavaScript apps.
+This project uses Tailwind CSS for styling, a utility-first CSS framework that provides low-level utility classes to build designs directly in your markup.
+
+
 
