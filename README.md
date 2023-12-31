@@ -40,7 +40,7 @@ https://assignment-6048b.web.app/
 4. Running the Application
       npm start
    
-## Built With
+## build
 React - The JavaScript library for building user interfaces.
 This project utilizes Redux for state management. Redux is a predictable state container for JavaScript apps.
 This project uses Tailwind CSS for styling, a utility-first CSS framework that provides low-level utility classes to build designs directly in your markup.
