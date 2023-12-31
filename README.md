@@ -7,12 +7,11 @@ This is a simple to-do app built with React.js. It allows users to create, delet
 - [Demo](#demo)
 - [Features](#features)
 - [Installation](#installation)
-- [Usage](#usage)
+- [Built With](#build-with)
 - [Technologies Used](#technologies-used)
 - [Contributing](#contributing)
 - [Firebase Deployment Guide](#Firebase-Deployment-Guide)
-- [Built With](#build-with)
-- 
+  
 
 ## Demo
 
